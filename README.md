@@ -22,6 +22,6 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 ## Results
 
-* Copy your ZEPL notebooks into Jupyter Notebooks and upload those to GitHub.
+* Copy ZEPL notebooks into Jupyter Notebooks and upload those to GitHub.
 
-* Copy your SQL queries into `.sql` files and upload to GitHub.
+* Copy SQL queries into `.sql` files and upload to GitHub.
